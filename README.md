@@ -1,70 +1,82 @@
 <h1 align="center">Salut, je suis OGisidore 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Développeur+passionné;Curieux+et+créatif;Toujours+en+apprentissage;J'aime+construire+des+idées" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+%26+AI+enthusiast;Cybersecurity+mindset;Builder+of+smart+solutions;Always+learning+and+experimenting" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OGisidore&label=Visiteurs&color=7C3AED&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=OGisidore&label=Visiteurs&color=00D9FF&style=flat-square" alt="Profile views" />
 </p>
 
-Je suis un développeur passionné par la création de projets utiles, élégants et performants.  
-J’aime apprendre, expérimenter et transformer des idées en réalité.
+Je suis passionné par l’intelligence artificielle, les données, la sécurité numérique et la création de solutions techniques innovantes.  
+J’aime explorer les technologies émergentes, comprendre comment elles fonctionnent, et les transformer en projets concrets.
 
 ---
 
-### 🚀 Stack technique
+### 🧠 Domaines d’intérêt
+
+- IA / Machine Learning
+- Analyse de données
+- Automatisation
+- Cybersécurité
+- Systèmes intelligents
+- Projets techniques innovants
+
+---
+
+### ⚙️ Stack technique
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
 ---
 
-### 📌 À propos de moi
+### 🔐 Mindset
 
-- 💡 J’aime créer des projets qui allient utilité et design
-- 🌱 J’apprends constamment de nouvelles technologies
-- ⚙️ J’aime résoudre des problèmes concrets avec du code propre
-- 🎯 Mon objectif : développer des expériences qui font plaisir à utiliser
+- 🧪 J’aime expérimenter avec des idées novatrices
+- 📊 Je suis attiré par les données, les modèles et les patterns
+- 🛡️ J’ai un intérêt fort pour la sécurité numérique et les systèmes fiables
+- 🚀 Je cherche à construire des outils utiles, intelligents et durables
 
 ---
 
 ### 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OGisidore&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OGisidore&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OGisidore&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OGisidore&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGisidore&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGisidore&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧩 Projets à venir / idées
+### 🧩 Ce que je veux construire
 
-- ✨ Portfolio personnel
-- 🧠 Outils / scripts utiles
-- 🌐 Applications web modernes
-- 🔧 Projets open source et expérimentations
+- IA appliquée à des cas concrets
+- Outils de data analysis et d’automatisation
+- Systèmes plus sécurisés et intelligents
+- Projets open source utiles et innovants
 
 ---
 
-### 📫 Me contacter
+### 📫 Me retrouver
 
 <p align="left">
   <a href="https://github.com/OGisidore">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ton-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -77,5 +89,5 @@ J’aime apprendre, expérimenter et transformer des idées en réalité.
 ---
 
 <p align="center">
-  <i>“Créer, apprendre, améliorer, répéter.”</i>
+  <i>“Machine learning, data, security, and curiosity — one path, endless possibilities.”</i>
 </p>
