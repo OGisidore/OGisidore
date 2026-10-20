@@ -13,14 +13,13 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Ops%20%7C%20Mobile-0A84FF?style=for-the-badge" />
 </p>
 
-I don’t just write software.  
-I build systems, attack assumptions, patch weak spots, and rebuild smarter.
+We build systems, attack assumptions, patch weak spots, and rebuild smarter.
 
-If your AWS infra has weird stuff, suspicious cronjobs, crypto miners, or the kind of issue that makes your logs scream — I’m probably already looking at it.
+If your AWS infra has weird stuff, suspicious cronjobs, crypto miners, or the kind of issue that makes your logs scream — We are probably already looking at it.
 
 ---
 
-### 🔥 What I do
+### 🔥 What We do
 
 - 🧠 AI-driven experiments and practical tooling
 - 🔐 Security engineering, hardening, and offense/defense mindset
